@@ -23,20 +23,20 @@
             <h2>Contato</h2>
             <div class="d-flex flex-row align-items-center justify-content-center">
                 <img src="assets/whatsapp-icon-white.png" height="50" />
-                <h4>(67) 9 9999-9999</h4>
+                <h4>(11) 96769-6726</h4>
             </div>
             <div class="d-flex flex-row align-items-center mt-2">
                 <img src="assets/mail-icon.png" height="50" />
                 <h4>contato@acessoriaaymore.com.br</h4>
             </div>
-            <div class="d-flex flex-row align-items-center mt-2">
+            <!-- <div class="d-flex flex-row align-items-center mt-2">
                 <img src="assets/pin-white.png" height="50" />
                 <div>
                     <h4>Av. Paulista, 000</h4>
                     <h4>10º Andar - Sl. 1</h4>
                     <h4>São Paulo - SP</h4>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 
