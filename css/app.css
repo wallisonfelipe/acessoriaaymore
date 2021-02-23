@@ -1,0 +1,28 @@
+body,
+html {
+    background-color: #f0f0f0;
+}
+
+.icon {
+    border-radius: 50px;
+    border: 5px solid #de1e24;
+    padding: 0px;
+}
+
+.card-benefit {
+    margin-top: 10px;
+    border: 2px solid gray;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.image-in-div {
+    background-image: url('https://image.freepik.com/fotos-gratis/cifrao-para-banner-do-site-redering-3d_118019-703.jpg');
+}
+
+.headerDivider {
+    border-left: 1px solid #38546d;
+    border-right: 1px solid #16222c;
+    height: 80px;
+    position: relative;
+}
