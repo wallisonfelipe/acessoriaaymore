@@ -31,12 +31,12 @@
             <img class="img-fluid w-100" src="assets/banner2.jpg" />
         </div>
 
-        <div class="row bg-primary p-3">
+        <div class="row p-3" style="background-color: #810c0c;">
             <div class="col-6 d-flex justify-content-center align-items-center">
                 <img src="assets/santander.jpg" height="80" width="auto" />
             </div>
             <div class="col-6 d-flex justify-content-center align-items-center">
-                <button class="btn btn-lg btn-outline-danger bg-white">SOLICITE AGORA</button>
+                <a class="btn btn-lg btn-outline-danger bg-white" href="https://whats.link/assessoriaaymore">SOLICITE AGORA</a>
             </div>
         </div>
 
@@ -80,40 +80,43 @@
                 <h1><span class="text-white mt-5">Não deixe pra fazer depois o</span><br />
                     <span class=" mt-5" style="color: red;">que você pode fazer agora!</span>
                 </h1>
-                <button class="btn btn-danger btn-lg mt-4 mb-4">Solicite agora o seu</button>
+                <a class="btn btn-danger btn-lg mt-4 mb-4" href="https://whats.link/assessoriaaymore">Solicite agora o seu</a>
             </div>
         </div>
-        <div class="row pb-4 p-2">
+        <div class="row pb-4 p-2" style="margin-left: 50px;margin-right: 50px;">
             <div class="col-12">
                 <h3>Serviços de pagamento</h3>
             </div>
             <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 card-benefit pb-3">
-                <div class="d-flex justify-content-center align-items-center">
+                <div class="d-flex justify-content-center align-items-center mt-3">
                     <img class="icon" src="assets/boleto-icon.png" height="80" width="auto" />
                 </div>
                 <div class="d-flex justify-content-center align-items-center flex-column">
                     <h5 class="card-title">Segunda via de boletos</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <p class="card-text">Peça a segunda via de um boleto vencido de uma maneira fácil, sem burocracia. 
+</p>
                     <button href="#" class="btn btn-danger  ">Clique aqui</button>
                 </div>
             </div>
             <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 card-benefit pb-3">
-                <div class="d-flex justify-content-center align-items-center">
+                <div class="d-flex justify-content-center align-items-center mt-3">
                     <img class="icon p-2" src="assets/cost-icon.png" height="80" width="auto" />
                 </div>
                 <div class="d-flex justify-content-center align-items-center flex-column">
                     <h5 class="card-title">Quitação de carro</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <p class="card-text">Garanta até 70% de descontos na quitação e faça também uma proposta mediante a revisão de juros Contratual. Garantindo descontos na quitação incluindo baixa no Gravame e Alienação Fiduciária. 
+</p>
                     <button href="#" class="btn btn-danger  ">Clique aqui</button>
                 </div>
             </div>
             <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 card-benefit pb-3">
-                <div class="d-flex justify-content-center align-items-center">
+                <div class="d-flex justify-content-center align-items-center mt-3">
                     <img class="icon p-2" src="assets/board.png" height="80" width="auto" />
                 </div>
                 <div class="d-flex justify-content-center align-items-center flex-column">
                     <h5 class="card-title">Adiantamento de parcelas</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <p class="card-text">Ao solicitar a quitação antecipada do financiamento de um veículo, você tem direito a um desconto referente aos juros que estão embutidos no valor original da parcela. Isso ocorre porque a instituição financeira esperava receber a parcela em determinada data e calculou o valor dos juros para isso. 
+</p>
                     <button href="#" class="btn btn-danger  ">Clique aqui</button>
                 </div>
             </div>
@@ -141,7 +144,7 @@
                 <p>Sr , o custo de nossos trabalhos são adicionados no mesmo boleto de acordo de quitação de débitos, os procedimentos de varredura em seu CPF como; localização de débitos, recalculo de dividas, e renegociações diretamente com os sistemas dos credores, são realizados pelo setor jurídico da empresa, sr(a) somente pagara se estiver de acordo, o pro-cedimento inicial é realizado pela empresa sem solicitação de custo. </p>
             </div>
             <div class="col-12 d-flex justify-content-center align-items-center">
-                <button class="btn btn-danger align-self-center btn-lg">SOLICITE AGORA O SEU!   </button>
+                <a class="btn btn-danger align-self-center btn-lg" href="https://whats.link/assessoriaaymore">SOLICITE AGORA O SEU!   </a>
             </div>
         </div>
 

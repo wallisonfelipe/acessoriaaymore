@@ -1,3 +1,7 @@
+:root {
+    --bs-primary: #de1e24!important;
+}
+
 body,
 html {
     background-color: #f0f0f0;
