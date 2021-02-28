@@ -27,11 +27,11 @@
             </div>
         </div>
 
-        <div class="row bg-dark w-100">
+        <div class="row bg-dark w-100 m-0 p-0">
             <img class="img-fluid w-100" src="assets/banner2.jpeg" />
         </div>
 
-        <div class="row p-3" style="background-color: #810c0c;">
+        <div class="row " style="background-color: #810c0c;">
             <div class="col-6 d-flex justify-content-center align-items-center">
                 <img src="assets/santander.jpg" height="80" width="auto" />
             </div>
@@ -40,8 +40,8 @@
             </div>
         </div>
 
-        <div class="row p-5 d-flex justify-content-center align-items-center ">
-            <div class="col-md-12 col-sm-12 col-lg-12 col-xl-12 mb-5">
+        <div class="row d-flex justify-content-center align-items-center ">
+            <div class="col-md-12 col-sm-12 col-lg-12 col-xl-12 mb-5 text-center mt-4">
                 <h3>Nossos benefícios</h3>
             </div>
 
@@ -75,7 +75,7 @@
                 </div>
             </div>
         </div>
-
+    <br><br><br>
         <div class="row bg-primary image-in-div">
             <div class="col-12 d-flex justify-content-center align-items-center flex-column">
                 <h1><span class="text-white mt-5">Não deixe pra fazer depois o</span><br />

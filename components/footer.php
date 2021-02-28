@@ -17,7 +17,7 @@
             <h4 class="mt-5">HOME</h4>
             <h4>QUEM SOMOS</h4>
             <h4>SERVIÇOS</h4>
-            <h4>CONTATO</h4>
+            <h4>CONTATO</h4>    
         </div>
         <div class="col-12 col-md-4 d-flex justify-content-center align-items-center flex-column" style="border-left:5px solid #810c0c ">
             <h2>Contato</h2>
@@ -27,7 +27,7 @@
             </div>
             <div class="d-flex flex-row align-items-center mt-2">
                 <img src="assets/mail-icon.png" height="50" />
-                <h4>contato@acessoriaaymore.com.br</h4>
+                <h6>contato@acessoriaaymore.com.br</h6>
             </div>
             <!-- <div class="d-flex flex-row align-items-center mt-2">
                 <img src="assets/pin-white.png" height="50" />
@@ -48,4 +48,11 @@
             <h6>Desenvolvido por <a href="https://comuniccar.com.br/" style="color:white">Agência Comuniccar</a></h6>
         </div>
     </div>
+    <a href="https://whats.link/assessoriaaymore" class="float" target="_blank">
+        <img src="/assets/whatsapp-icon-white.png" width="40" height="40" style="    width: 50px;
+    height: 50px;
+    left: 2px;
+    position: relative;
+    top: 3px;">
+    </a>
 </div>
